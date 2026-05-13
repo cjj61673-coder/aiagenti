@@ -1,0 +1,11 @@
+{
+  "name": "青岚宗纪 · AIAgenti",
+  "short_name": "青岚宗纪",
+  "start_url": "./qingyue_mobile_v6_ui_fix.html",
+  "display": "standalone",
+  "background_color": "#090814",
+  "theme_color": "#131124",
+  "lang": "zh-CN",
+  "description": "可在手机浏览器运行的修仙互动骨架（PWA）。",
+  "icons": []
+}
